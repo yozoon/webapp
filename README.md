@@ -29,7 +29,7 @@ Voraussetzungen zur Installation:
 * Zur Nutzung der APP bzw. BOS-Schnittstelle muss jeweils 1 Subdomain angelegt werden können
 
 ### Download
-* Aktuellste Release im Repository https://github.com/pisoni/eTrax/releases oder
+* Aktuellste Release im Repository https://github.com/etrax-rescue/webapp/releases oder
 * Builden der aktuellen Version (siehe oberhalb)
 
 ### Installation
